@@ -1,0 +1,3 @@
+p="hello"
+q="world"
+print(p+q)
